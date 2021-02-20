@@ -1,0 +1,5 @@
+site_name: Learn2Doc
+nav:
+  - Home: index.md
+  - Learn: learn2doc.md
+theme: readthedocs
